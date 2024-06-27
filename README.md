@@ -1,7 +1,7 @@
 # DataChatbot
 Information Retrieval Chatbot using zephyr-7B model and cloud as data sources
 
-#Allocate Data from the sources 
+## Allocate Data from the sources 
 1. Give Path to directory
    ![Sources1](https://github.com/Seraph-Fast/DataChatbot/assets/75688011/39c3fa72-9048-49e3-9e49-83d9476bc68e)
 
